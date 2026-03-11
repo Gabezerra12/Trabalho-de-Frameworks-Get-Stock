@@ -17,3 +17,4 @@ env/
 
 # OS
 .DS_Store
+# ignore database files\n.db/\n__pycache__/\n*.pyc\n
